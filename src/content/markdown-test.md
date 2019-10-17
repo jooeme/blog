@@ -23,7 +23,7 @@ Paragraph
 
 `const foo = bar`
 
-```javascript
+```js
 const foo = bar
 console.log(foo)
 ```

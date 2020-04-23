@@ -18,3 +18,4 @@ path: "/blog/js-data-types"
   - String
   - Symbol
 - Object
+- 
